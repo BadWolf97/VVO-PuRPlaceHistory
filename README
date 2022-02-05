@@ -1,0 +1,4 @@
+# Inhalt
+
+Dieser Datensatz enthält alle über die VVO API abrufbaren Park & Ride-Parkplätze.
+Aktuell werden die Daten alle 3-5 Minuten abgerufen und jeden Tag commited.
